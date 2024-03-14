@@ -39,7 +39,7 @@ Start the client app:
 $ npm run dev
 ```
 
-Alternatively you can view the live website [here](https://preview-vault/).
+Alternatively, you can view the live website [here](https://preview-vault.vercel.app/).
 
 ## Built With
 
