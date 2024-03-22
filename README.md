@@ -2,7 +2,7 @@
 
 > The Preview Vault App allows users to search and preview tons of the latest Movies and TV Series online using Next.js and Typescript.
 
-![Homepage](.github/homepage.png)
+![Homepage](.github/homepage1.png)
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
